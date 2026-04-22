@@ -1,0 +1,15 @@
+{
+  "symbol": "600519.SH",
+  "market": "A",
+  "provider": "futu",
+  "timestamp": "2026-04-21T10:32:15",
+  "last": 1701.0,
+  "open": 1692.0,
+  "high": 1708.0,
+  "low": 1688.0,
+  "volume": 1320000,
+  "turnover": 2240000000.0,
+  "bid": 1700.9,
+  "ask": 1701.0,
+  "prev_close": 1690.0
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Trading Assistant"
+  short_description: "A股和美股只读交易决策辅助"
+  default_prompt: "Use $stock-trading-assistant to prepare A-share or US stock data, validate quality, and produce a conditional technical decision-support report."
